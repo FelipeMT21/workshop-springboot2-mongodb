@@ -16,7 +16,7 @@ import com.felipesilva.workshopmongo.services.UserService;
 public class UserResource {
 	
 	@Autowired
-	UserService service;
+	private UserService service;
 	
 	@GetMapping
 	public ResponseEntity<List<User>> findAll(){
