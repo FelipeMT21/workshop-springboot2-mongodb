@@ -6,9 +6,12 @@ import java.util.Date;
 import java.util.List;
 import java.util.Objects;
 
+import org.springframework.data.mongodb.core.mapping.Document;
+
 import com.felipesilva.workshopmongo.dto.AuthorDTO;
 import com.felipesilva.workshopmongo.dto.CommentDTO;
 
+@Document
 public class Post implements Serializable {
 
 	private static final long serialVersionUID = 1L;
