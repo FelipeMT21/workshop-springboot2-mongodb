@@ -1,4 +1,5 @@
 # Workshop SpringBoot MongoDB
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/FelipeMT21/workshop-springboot2-mongodb/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -7,7 +8,9 @@ O projeto consiste em um aplicativo Spring Boot com suporte ao MongoDB. Ele demo
 O aplicativo inclui operações básicas, como recuperar dados do Author ou Post por ID, buscar posts por título e comentários, e realizar buscas mais avançadas com critérios de data. O código segue boas práticas ao utilizar DTOs (Data Transfer Objects), tratamento de exceções e boas práticas de nomenclatura.
 
 ## Modelo conceitual
-![Modelo Conceitual]()
+![Modelo Conceitual](https://github.com/FelipeMT21/workshop-springboot2-mongodb/blob/main/assets/modelo-conceitual-1.jpeg)
+
+![](https://github.com/FelipeMT21/workshop-springboot2-mongodb/blob/main/assets/modelo.jpeg)
 
 # Tecnologias utilizadas
 ## Back end
